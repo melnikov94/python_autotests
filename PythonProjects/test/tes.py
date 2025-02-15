@@ -6,7 +6,7 @@ BASE_URL = 'https://api.pokemonbattle.ru/v2'
 
 # Заголовки для авторизации и контента
 headers = {
-    'trainer_token': 'a0acddbae731ac6dad649b9c62ad3bba',
+    'trainer_token': 'a0ac',
     'Content-Type': 'application/json'
 }
 
